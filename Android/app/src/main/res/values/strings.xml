@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Marvel Comics</string>
+    <string name="no_description_available_for_comic">No description available for this comic!</string>
+    <string name="no_title_available_for_this_comic">No title available for this comic!</string>
+    <string name="issue_prefix">Issue\u0020</string>
+    <string name="pages_suffix">\u0020pages</string>
+    <string name="error_dialog_title">Error</string>
+    <string name="error_dialog_message">There was an error while loading comics from the Marvel website!</string>
+    <string name="error_dialog_positive_button_text">Retry</string>
+    <string name="error_dialog_negative_button_text">Close</string>
+</resources>

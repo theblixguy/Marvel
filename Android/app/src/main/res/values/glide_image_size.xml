@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="glide_image_width">553</integer>
+    <integer name="glide_image_height">850</integer>
+</resources>
